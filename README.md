@@ -381,6 +381,13 @@ documento.pdf.enc
 
 **Atenção:** após o processamento bem-sucedido, o script tenta sobrescrever e remover o arquivo original.
 
+![Principais Comandos Linux](./imagem1.png)
+
+Os arquivos criptografados:
+![Principais Comandos Linux](./imagem2.png)
+
+
+
 ### 2. Descriptografar arquivos
 
 Selecione a opção `2`, informe o caminho do arquivo `.enc` ou de uma pasta que contenha arquivos criptografados e utilize a mesma senha usada na criptografia.
@@ -398,6 +405,12 @@ documento.pdf
 ```
 
 O script também tenta sobrescrever e remover o arquivo `.enc` após a descriptografia bem-sucedida.
+
+![Principais Comandos Linux](./imagem1.1.png)
+
+Descriptografia bem-sucedida:
+![Principais Comandos Linux](./imagem2.2.png)
+
 
 > A senha não pode ser recuperada pelo programa. Se for perdida, os dados poderão ficar inacessíveis.
 
