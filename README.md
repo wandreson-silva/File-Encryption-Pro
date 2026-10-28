@@ -487,6 +487,8 @@ relatorio_criptografia.txt
 relatorio_descriptografia.txt
 ```
 
+![Principais Comandos Linux](./relatórios.png)
+
 Os relatórios incluem:
 
 - Data e horário da operação.
@@ -515,6 +517,14 @@ Arquivos  : 3 | Sucesso: 2 | Falha: 1
 ```
 
 Os valores acima são apenas ilustrativos.
+
+Relatorio_criptografia.txt
+
+![Principais Comandos Linux](./cripto.png)
+
+relatorio_descriptografia.txt
+
+![Principais Comandos Linux](./descripto.png)
 
 ## 🛡️ Boas práticas de segurança
 
