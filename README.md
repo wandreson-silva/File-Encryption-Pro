@@ -599,3 +599,4 @@ Projeto desenvolvido para fins educacionais e de estudo em Python, criptografia 
 
 **Aviso legal:** o autor não se responsabiliza por perda de dados decorrente do uso inadequado da ferramenta. Utilize o programa somente em arquivos e sistemas para os quais você tenha autorização.
 
+[keylogger_telegram](https://github.com/wandreson-silva/keylogger_telegram)
